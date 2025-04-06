@@ -23,4 +23,4 @@ Ensure the `data/` directory is in the working directory of the cloned repo. Thi
 ### 3. Run the Jupyter Notebook
 Open `jazz_quant_clean.ipynb` and run all cells. The analysis should complete without any issues if the data is correctly placed.
 
-Now you're all set to explore the quantitative analysis of jazz improvisation!
+Now you're all set to explore my project!
