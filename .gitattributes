@@ -1,2 +1,8 @@
 jazz_quant_clean.ipynb filter=lfs diff=lfs merge=lfs -text
 data filter=lfs diff=lfs merge=lfs -text
+<<<<<<< HEAD
+=======
+old_runthroughs filter=lfs diff=lfs merge=lfs -text
+old_runthroughs/workflow_oldsave.ipynb filter=lfs diff=lfs merge=lfs -text
+old_runthroughs/workflow_messy.ipynb filter=lfs diff=lfs merge=lfs -text
+>>>>>>> 7065cc0 (move old runthroughs)
