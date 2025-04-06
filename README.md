@@ -2,12 +2,6 @@
 Jazz is often misunderstood as elevator music. A bunch of of random notes played together that no one really understands — which in a sense is kind of true. But I want to try to understand what makes the randomness random, and explore how we can quantify the evolution of music. My investigative project explores how quantitative methods can show the inner workings of jazz improvisations to be more than just random note playing.
 
 ## To run the pipeline yourself
-# Quantitative Perspectives on Jazz Improvisation
-
-Jazz is often misunderstood as random, but my project aims to explore the structure behind this "randomness" by applying quantitative methods to jazz improvisation.
-
-## To Run the Pipeline
-
 Follow these steps to run the project:
 
 ### 1. Clone the Repository with Git LFS
